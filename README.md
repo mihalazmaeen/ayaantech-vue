@@ -1,5 +1,7 @@
 # ayaantech-vue
 
+Click this [link](https://gleeful-scone-c821d4.netlify.app/) to see the project
+
 ## Project setup
 ```
 npm install
