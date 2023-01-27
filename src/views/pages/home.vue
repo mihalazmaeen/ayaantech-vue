@@ -20,6 +20,9 @@
 <!-- conatct us section -->
 <contact-us></contact-us>
     <!--contact us ends  -->
+    <!-- test component Starts -->
+<test-component></test-component>
+    <!-- test component ends -->
 <!-- map section ends -->
 <map-section></map-section>
 <!-- map section ends -->
@@ -38,8 +41,9 @@ import news from '../../components/frontend/news.vue';
 import social from '../../components/frontend/social.vue';
 import contactUs from '../../components/frontend/contactUs.vue';
 import mapSection from '../../components/frontend/mapSection.vue';
+import testComponent from '../../components/frontend/testComponent.vue';
 export default {
-    components:{sliders,reviewBox,serviceSection,aboutus,blog,website,social,news,contactUs,mapSection},
+    components:{sliders,reviewBox,serviceSection,aboutus,blog,website,social,news,contactUs,mapSection,testComponent},
 name:'home',
 }
 </script>
